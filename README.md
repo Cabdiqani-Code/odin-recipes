@@ -1,3 +1,3 @@
 # odin-recipes
-Iam trying to build my first website, odin-recipes. I can add different text styles to my pagesI  can also add paragraphs,heads ets.I can add links and pictures  too.
+Iam trying to build my first website, odin-recipes. I can add different text styles to my pages I  can also add paragraphs,heads ets.I can add links and pictures  too.
 Now I can add basic CSS files to my html files such as different colors,backgrounds,class and id.
